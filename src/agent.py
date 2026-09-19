@@ -81,7 +81,50 @@ Choose exactly ONE intent from the following list:
 
 {json.dumps(INTENTS, indent=2)}
 
-Return ONLY valid JSON in this exact format:
+IMPORTANT DECISION RULES:
+
+1. If the message is primarily about Amazon Prime membership,
+   Prime benefits, Prime shipping entitlement, one-day/two-day
+   Prime delivery, or paying for Prime but not receiving the
+   promised Prime benefit, choose:
+   "prime_subscription"
+
+2. If the message is primarily about tracking a specific order,
+   a package being late, missing, delivered, or a tracking update,
+   and Prime membership is not the main issue, choose:
+   "delivery_tracking"
+
+3. If the core problem is a damaged, defective, incorrect, or
+   missing item, choose:
+   "order_product_issue"
+
+4. If the core problem is a refund or return, choose:
+   "return_refund"
+
+5. If the core problem is a charge, payment, billing, cashback,
+   gift-card credit, or payment method, choose:
+   "payment_billing"
+
+6. If the core problem is account login, account recovery,
+   or account access, choose:
+   "account_access"
+
+7. If the core problem is an app, device, website, technical
+   failure, or digital-service malfunction, choose:
+   "technical_device_digital"
+
+8. Use "complaint_service" only when the customer is primarily
+   complaining about customer service itself and there is no
+   more specific operational issue.
+
+9. Use "product_info_availability" for questions about product
+   features, compatibility, availability, or how a product/service
+   works when there is no concrete failure.
+
+10. Use "other" for praise, casual comments, vague statements,
+    or messages that do not fit the above categories.
+
+Return ONLY valid JSON:
 
 {{
   "intent": "one_intent_from_list",
@@ -90,7 +133,7 @@ Return ONLY valid JSON in this exact format:
 
 Rules:
 - intent must be exactly one item from the list.
-- confidence must be a number between 0 and 1.
+- confidence must be between 0 and 1.
 - Do not include markdown.
 - Do not include explanations.
 
@@ -216,6 +259,7 @@ def decide_escalation(
     high_risk_intents = {
         "payment_billing",
         "return_refund",
+        "prime_subscription",
     }
 
     risk_terms = [
