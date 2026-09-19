@@ -1,0 +1,117 @@
+eval_id,customer_text,reply,evidence,correctness,groundedness,relevance,empathy,safety,overall,reason
+eval_074,@AmazonHelp I participated in a promotion which should have given me a 10 dollar credit.  Its not in my account. Help?\n@AmazonHelp right.. its not there.  How can I figure out why it wasn't credited to me.\n@AmazonHelp Yeah it was buy a mobile gift card get 10 dollars promo,"@168350 We're happy to help! Without sharing account information, can you tell us a bit more about what's going on? ^SB","Customer: Hello @115821 why is this 10 dollar gift card 14 dollars???
+Historical response: @628852 Without posting account information, can you send us a link to this Gift Card or provide a screen shot? ^LI
+
+Customer: Help @AmazonHelp
+Historical response: @168350 We're happy to help! Without sharing account information, can you tell us a bit more about what's going on? ^SB
+
+Customer: @115830 is there a way to transfer AmazonUK gift card to AmazonINDIA gift card ? Thank you
+Historical response: @552105 Hi. Amazon Gift Cards can only be used on the relevant Amazon site, it's not possible to exchange them. ^RL",3,5,4,4,5,4.2,"Matches historical evidence for a generic help request, but misses addressing the specific mobile gift card promotion mentioned by the customer."
+eval_019,"22:00 Uhr und die Premiumversandsendung die heute kommen sollte ist nicht gekommen.
+Super @116316 und @122924...  ganz klasse...",@349563 Was sagt die Sendungsverfolgung? Melde dich zur Prüfung gern mal bei den Kollegen im Kundenservice https://t.co/ohyvGrpvrY ^DS,"Customer: 22:00 Uhr und die Premiumversandsendung die heute kommen sollte ist nicht gekommen.
+Super @116316 und @122924...  ganz klasse...
+Historical response: @349563 Was sagt die Sendungsverfolgung? Melde dich zur Prüfung gern mal bei den Kollegen im Kundenservice https://t.co/ohyvGrpvrY ^DS
+
+Customer: Ernsthaft @116316 ? Sollte heute kommen und ich bekomm vor 2 Minuten ne Nachricht, dass die auf unbestimmte Zeit verschoben wird? Warum?😭 https://t.co/bc0n4CyNdE
+Historical response: @485231 Hi, deine Verärgerung kann ich gut verstehen. :-( Wenn es verfügbar ist,wirst du per Mail benachrichtig. Gruß ^AK
+
+Customer: Ich mags ja, wenn es nach 20 Uhr ist und @122924 immer noch nicht geliefert hat. Dafür zahl ich bei @116316 also für Prime.
+Historical response: @215624 Bitte lass das die Kollegen im Kundenservice prüfen: https://t.co/ohyvGrpvrY Wir haben über Twitter leider keinen Einblick. ^BL",5,5,5,4,5,4.8,Exact match to historical response for the exact same customer tweet. Correctly directs to tracking and customer service.
+eval_119,"@AmazonHelp https://t.co/eBQQEWT9l9
+以前、Prime Studentの無料会員として登録していたのですが、このキャンペーンを見て、再度興味を持ち、再登録を検討しています。再度6か月の無料体験は可能なでしょうか？もしくは「Prime Studentに登録する」ボタンを押下すると、支払に移行するのでしょうか？\n@AmazonHelp 返信ありがとうございます。検討させて頂きます。",@558041 ご不便をおかけしております。カスタマーサービスにてお調べいたします。お手数ですが、以下よりお問い合わせください。https://t.co/J6YEizo6qC SM,"Customer: アマゾンログインできなくなったな
+パスワードが正しくないって乗っ取られたかな？
+単純なパスじゃないのにどうやって？\n@AmazonHelp 返信ありがとうございます。今から試してみます\n@AmazonHelp 無事にサインインページからパスワードアシスタントの手順に従ってパスワード変更、ログインできました。念のため二段階認証も有効にしました。
+適切なアドバイスを頂き本当にありがとうございました。
+Historical response: @492056 ご心配をおかけしております。
+可能であれば、一度パスワードの再設定を行ってサインインできるかご確認ください。
+再設定後も解決しない場合には、状況確認させていただくので、下記よりご連絡ください。https://t.co/bwBU0NvYIn TY\n@492056 お手数おかけしますが、よろしくお願いします。
+なお、カスタマーサービスは24時間ご対応しておりますので、何かあればいつでも先ほどのURLよりご連絡くださいませ。TY\n@492056 とんでもないことです。無事にサインインができてよかったです。
+ご心配なことがございましたら、先ほどご案内したように、ぜひカスタマーサービスにお問い合わせください。お客様が便利に安心してご利用いただけるサイトを提供できるよう努めてまいります。RI
+
+Customer: 返金と言われてもなー
+返金されてもその金でスーファミミニ買えるわけでもないし
+なんなら、予約日にアマゾンに張り付いた時間と、予約できたワクワクも全部返して欲しい\n@AmazonHelp 返信ありがとうございます。
+連絡お待ちしております。
+今回残念だったのは、返送されていることを自分で調べて知った。ということです
+メール等で知らされたのなら、仕方ないかという気にもなりますが…
+アマゾンさんは今後も使っていきたいので、今回の件の一意見として伝えさせて下さい。
+Historical response: @190550 このたびは、ご迷惑をおかけし申し訳ございません。本件についてご注文いただいたお客様に後日https://t.co/st4oU5QbhPよりご連絡を行わせていただきますため、そのご連絡をお待ちいただきますようお願いいたします。TN\n@190550 お待ちいただきありがとうございます。また、当サイトからの連絡について、ご不快な思いをおかけしてしまいましたことをお詫びいたします。お客様からいただいたご意見につきましては、担当部署に伝えさせていただきます。 YM
+
+Customer: Amazonのコンビニ受け取りエラーが出て受け取れない( ｰิωｰิ )\n@AmazonHelp お世話になります。
+2017/10/28に配達しました 
+荷物は、現在受け取り場所で引き渡し準備中です。準備が整い次第、受取方法をご案内するEメールを送信します。送信までには通常、数時間程度かかります。
+
+注文履歴にこのように表示されています。\n@AmazonHelp 返信ありがとうございます。店舗到着メールは28日の13:13に来ていても日にちがかかるのですね。もう少し待ってみます。\n@AmazonHelp ありがとうございます！問い合わせてみます。
+Historical response: @558041 ご不便をおかけしております。店頭受取でのエラーとの事ですが、どの段階で何というエラーメッセージが出ているか、教えて頂けますか？ EK\n@558041 店頭受取に必要な認証キーが、まだ送信されていない状況かと存じます。商品が店頭に到着してから、認証キーがメールで送信されるまで時間差がございます。恐れ入りますが、今しばらくお待ちください。　ヘルプページ⇒https://t.co/bjm0cTL1rm　SM\n@558041 大変申し訳ございません、到着日の確認が不足しておりました。到着から2日経過しても認証キーが未送信の場合、カスタマーサービスにてお調べいたします。お手数ですが、以下よりお問い合わせください。https://t.co/J6YEizo6qC　SM\n@558041 よろしくお願いいたします。 EK",4,5,4,4,5,4.4,Directs customer to customer service using the exact link pattern from historical interactions with this specific user ID.
+eval_079,@115821 @AmazonHelp @115850 https://t.co/Yj0jHg9QbH,@207582 Please connect with our support team here: https://t.co/2t6DQoUmNZ for further assistance on it. ^RW,"Customer: @115850 https://t.co/Q4b3rjrZPg
+Historical response: @366270 I request you to kindly drop in the info here once again :https://t.co/beaaDm0muc so that we can fix it ASAP! 2/2 ^PR\n@366270 A correspondence should be sent once the details are shared. However, as you haven't received it yet, 1/2 ^PR
+
+Customer: @115850  See. https://t.co/pxHt6CypMX
+Historical response: @207582 Please connect with our support team here: https://t.co/2t6DQoUmNZ for further assistance on it. ^RW\n@207582 Please don't provide your order details, as we consider it to be personal information. Our Twitter page is public.​ ^RW
+
+Customer: @115850  https://t.co/56t2HYr7EF
+Historical response: @338753 Could you confirm if you've shared the details as requested earlier? Please do so and we'll reach out to you. ^MS",5,5,5,4,5,4.8,Exact match to historical response used for the same customer sharing a link/image.
+eval_077,"@115830 who can i talk to if customer support have been unable to help me?\n@AmazonHelp Item not delivered , no tracking information, customer service can't find it and keep saying 24 hrs not even DPD know where it is\n@AmazonHelp Sold by Amazon EU s.a.r.l https://t.co/XPENRoUqtG\n@AmazonHelp Is that for UK? Customer service haven't helped\n@AmazonHelp Tried, got hung up on then tried again and been on hold for 20 minutes said they would just a few things????\n@AmazonHelp Unresolved been told 3 days in a row to wait 24hrs and now been told to wait till the 26th?? How can i contact someone in the UK\n@AmazonHelp Preferably at Amazon EU s.a.r.l\n@AmazonHelp Great customer service ......\n@AmazonHelp That was sarcasm",@338511 I'd like to have a member from our support team lend you a hand; please reach out to us here: https://t.co/JzP7hlA23B ^WM,"Customer: @115830 who can i talk to if customer support have been unable to help me?\n@AmazonHelp Item not delivered , no tracking information, customer service can't find it and keep saying 24 hrs not even DPD know where it is\n@AmazonHelp Sold by Amazon EU s.a.r.l https://t.co/XPENRoUqtG\n@AmazonHelp Is that for UK? Customer service haven't helped\n@AmazonHelp Tried, got hung up on then tried again and been on hold for 20 minutes said they would just a few things????\n@AmazonHelp Unresolved been told 3 days in a row to wait 24hrs and now been told to wait till the 26th?? How can i contact someone in the UK\n@AmazonHelp Preferably at Amazon EU s.a.r.l\n@AmazonHelp Great customer service ......\n@AmazonHelp That was sarcasm
+Historical response: @338511 We're here to help! Can you provide more details on what's going on? Please do not account/personal details.
+
+^LL\n@338511 Truly sorry to hear of this, Phillip. We are here to help! Was this order shipped by Amazon or a seller? Let us know! ^JE\n@338511 I'd like to have a member from our support team lend you a hand; please reach out to us here: https://t.co/JzP7hlA23B ^WM\n@338511 Please give us another chance to help you out. Call us using the link we provided from above. ^MH\n@338511 Please keep us posted on how the call goes, we want to ensure this issue is addressed for you. ^GR
+
+Customer: @115821 Help... I ordered from prime on Sunday, my items were to be delivered mon, then tues and now I have checked and they have been broke\n@115821 How do I tell if it was direct or not?\n@AmazonHelp It says I have no orders, does it make a difference that I am a UK customer?\n@AmazonHelp It says sold by amazon EU?\n@AmazonHelp Again this is the American version? I am UK\n@AmazonHelp Please help? I need a UK contact?\n@AmazonHelp I’m sorry but you have not helped me at all, this is disgusting! This is my order number 202-2386021-7214727 I just want my product!\n@AmazonHelp No it’s say view tracking details and then it just says damaged in transit please contact amazon? Then no contact number or anything
+Historical response: @302628 Hello! I'm sorry to hear that your item was damaged in transit &amp; returned! Was this sold by Amazon or a third-party seller?^FR\n@302628 We're happy to help! You can find out whether it was sold by us or a Third-Party seller here: https://t.co/Y5jpI9gRhE ^ML\n@302628 Whoops!  Sorry about that!  Here's the correct link:  https://t.co/aaDyEz1VgE ^MW\n@302628 Please call or chat with us here: https://t.co/hApLpMlfHN ^MH\n@302628 Sorry about that, please use this link instead: https://t.co/JzP7hlA23B ^BG\n@302628 My apologies for the frustration! We don't have acct access via Twitter, but we do want to help! Were you able to contact 1/2\n@302628 using this link: https://t.co/JzP7hlA23B If so, what options or insight did we provide? Please let us know! ^KN 2/2
+
+Customer: Very unimpressed with @115830 customer services today!\n@AmazonHelp 2 parcels to my address (one from me one from my mums account) marked as delivered but not actually delivered. Both are presents for my\n@AmazonHelp Fiancé. Told by customer service to wait 24 hours. My fiancé has no presents to open when he gets home from work\n@AmazonHelp Yes I have, did those before contacting customer services\n@AmazonHelp The investigation I was told to wait 24hrs for, said that “the carrier has confirmed it has been delivered” obviously it hasn’t been\n@AmazonHelp I was asked to wait 24hrs whilst you investigated. Replacement offered and said I’d receive an email about it which I haven’t had.
+Historical response: @126332 Truly sorry, this isn't what we intend! Without personal or account info could you tell us a bit about what's happened? ^JE\n@126332 Have you already tried a few of these troubleshooting steps for locating these parcels: https://t.co/fNj2BBBncC? ^WM\n@126332 Please keep us posted on your deliveries, Elanor. ^KN\n@126332 When you reached out, were we able to offer any other options like a refund or replacement? Were you asked to wait? ^VS\n@126332 If you don't receive correspondence after the 24-hour waiting period, please let us know. ^SB",5,5,5,5,5,5.0,Directly matches historical conversation flow where this exact support link and agent tag were used for the persistent delivery issue.
+eval_032,@AmazonHelp Amazon Logistics still havent delivered my parcel and its 1:18pm,@377104 I'm sorry for the wait! What order status and delivery date(s) are you currently seeing here: https://t.co/Y5jpI9gRhE? ^JR,"Customer: @115850 you have delivered a parcel to my address but it is not mine
+Historical response: @636813 That's unusual. Sorry for the trouble. Have you reported it to our support team yet? If not, please do so here: https://t.co/vlvfJr4nN9 for assistance. ^RS
+
+Customer: @115821 My order is yet to get to me by Amazon Logistics. Come on!!!
+Historical response: @377104 I'm sorry for the wait! What order status and delivery date(s) are you currently seeing here: https://t.co/Y5jpI9gRhE? ^JR
+
+Customer: Amazon Logistics Tracking @115830 #whybother https://t.co/WDeglwSJlV\n@AmazonHelp There's nothing to contact you about. Tracking for Amazon Logistics is useless. Bring back @122232 #deliveryexperts #DPD #onehourtracking
+Historical response: @424653 Sorry to see this. Please get in touch here: https://t.co/JzP7hlA23B and we'll look into this for you. ^RL",5,5,5,4,5,4.8,Exact match to historical response for an Amazon Logistics delay complaint.
+eval_065,"@AmazonHelp Hiiiii, so I purchased a product last week (from https://t.co/BuxBzo4g8X LLC) and the delivery date is supposed to be tomorrow/Friday but it hasnt even been shipped???? There's no messaging option so who do I contact because this is very frustrating.","@292962 Thank you for reaching out! Packages can be shipped up and until the day the delivery is scheduled for. You can see up to date tracking info in Your Orders, here: https://t.co/Y5jpI9gRhE Please keep us posted, we want to ensure you receive your package. ^NN","Customer: @AmazonHelp my package is supposed to be here by Friday and has yet to even be shipped and it's something I NEED. Help please?\n@AmazonHelp Thank you!
+Historical response: @292962 Thank you for reaching out! Packages can be shipped up and until the day the delivery is scheduled for. You can see up to date tracking info in Your Orders, here: https://t.co/Y5jpI9gRhE Please keep us posted, we want to ensure you receive your package. ^NN
+
+Customer: @632530 Amazon delayed mine it was supposed to arrive today and I'm SALTY\n@AmazonHelp Yes, it's supposed to come tomorrow or Friday!
+Historical response: @632529 I'm sorry you don't have your order! Do you see an updated delivery date: https://t.co/Y5jpI9gRhE ? ^DD
+
+Customer: @115850 You have closed all option to contact you on Phone and Its worst. How I trust you?
+Historical response: @202711 I'm sorry for the unpleasant experience. Please fill this form: https://t.co/beaaDm0muc and we'll get back to you soon. ^SI",5,5,5,5,5,5.0,Exact match to historical response used for the exact same customer phrasing regarding un-shipped items arriving Friday.
+eval_142,"#Amazon #Amazonlogistics 
+""après avoir étudié votre dem,  nous n'avons pas jugé qu'un bon de réduction soit ici approprié."" 
+trop de clients https://t.co/tOrBlWMMUL","@207035 Bonjour, je suis désolé d'apprendre cela. vous pouvez nous communiquer votre numéro de suivi afin de remonter ce souci ^ME","Customer: #Amazon #AmazonLogistics #AmazonFr
+Colis laissé au pif dans une BAL de ma rue, à moi de chercher ou ! 
+SAV 0 effort, RAB
+Au top @amazonhelp https://t.co/qmUubQNHeQ\n@AmazonHelp Bjr, suivi C10036014503. 
+SAV déjà contacté, mais pfff....\n@AmazonHelp Sav : ""après avoir étudié votre dem et au vu de votre situation, nous n'avons pas jugé qu'un bon de réd soit ici approprié.""\n@AmazonHelp Osef la confidentialité, le premium, la qualité client....\n@AmazonHelp Déjà remonté, déjà refait ;)
+Historical response: @207035 Bonjour, je suis désolé d'apprendre cela. vous pouvez nous communiquer votre numéro de suivi afin de remonter ce souci ^ME\n@207035 J'ai remonté cela au département en charge afin que cet incident ne se reproduise pas.  ^BR
+
+Customer: En direct depuis le chat d' @AmazonHelp : commande passée le 07/11 qui devait être livrée le 08/11 reatrdée au 09/11. Vive le premium. Amazon : 12:56 PM MET Rahma: En guise d'excuse, je vous offre un bon de réduction de 5 € valable jusqu'au 18 Avril 2020. 1/\n@AmazonHelp Je passe commande et la pas de bon de réduction. Le Chat d'amazon : je ne vois sur votre compte qu'un bon de 10 euros, 05:17 PM MET Mariétou: vous ne le voyez pas apparaître
+mais il sera directement applicable sur votre prochaine commande d'articles vendu et expédié par amazon 2/\n@AmazonHelp je passe commande et toujours rien, la en direct : au fait ce n'est pas un bon de réduction , c'est un code promo valable sur une selection d'articles
+je vous envoie le lien de la liste des article par e-mail . Wow!!! Je tente d'avoir le fin mot de l'hisoitre et https://t.co/7kuehEcoGf\n@AmazonHelp évidemment enfin c'est ce que dit le site amazon.fr https://t.co/1zBVLBL5dt\n@AmazonHelp bah non en fait! j ai un opérateur au tel, il m'a envoyé un mail avec un marche a suivre.\n@AmazonHelp Je vous informe que pour utiliser votre chèque-cadeau, vous devez entrer le code chèque-cadeau tel qu’il apparait dans l’email que vous avez reçu ou sur la carte cadeau, dans la case intitulée « Codes chèques-cadeaux et codes promotionnels” sur la page de validation de votre comm\n@AmazonHelp ande.
+Donc je dois rentrer un code recu dans un mail que je n'ai jamais recu https://t.co/SAcFyTOPye
+Historical response: @662095 Bonjour,
+L'article que vous avez choisi est-il vendu par Amazon ou par un vendeur tier?
+^MD\n@662095 En principe, le bon de réduction doit être déduit. Et comme cela vous a été indiqué, il n'est pas visible sur votre compte. Il apparaît sur la page récapitulative de la commande, qui est la dernière page précédant la validation.
+^MD\n@662095 Je vais vérifier cela de plus près et vous communiquer la bonne information. Pour ce faire, je vous prie de remplir le formulaire suivant avec le plus de détails possibles : https://t.co/HtUowg2UGX
+^MD
+
+Customer: Bonjour @120533 pour 300 euros d achat j ai pas le droit à un Bon de réduction svp ?\n@AmazonHelp sa marche et vous @131800 ?
+Historical response: @763147 Bonjour, je vous remercie pour votre intérêt mais nous ne proposons pas ce service, désolée.
+^KE",4,5,4,4,5,4.4,"Uses the exact historical response for this user ID regarding tracking info, maintaining continuity."
+eval_069,@115833 Hi. Alexa has stopped saying 'ok' when i give her Hive comands.? She doesn't say anything.?\n@AmazonHelp Thanks. Will do.,"@189512 You're welcome! You can always reach out if you have a question or concern, we're always happy to help. ^EZ","Customer: @115833 hi how can i turn the light ring off on echo or dot
+Historical response: @197433 Hi Amy! We currently don't have the option to turn off the light ring. Are you having issues with it? ^HC
+
+Customer: @115833 Can I change the name or do I have to use Alexa?
+Historical response: @472363 You can change the wake word on your Alexa device by following these steps: https://t.co/L3mbGqRsQ3 ^AN
+
+Customer: @AmazonHelp Thanks!
+Historical response: @189512 You're welcome! You can always reach out if you have a question or concern, we're always happy to help. ^EZ",5,5,5,5,5,5.0,Exact match to historical response for a customer saying 'Thanks'.
+eval_083,"@115821 hello, parcel arrived to me with wrong address. The first part of the label wasnt printed. What should happen?",@403719 Oh no! I'm sorry! Let's look at options regarding the order by phone or chat here: https://t.co/JzP7hlA23B ^TG,"Customer: @115830 you sent my parcel to the wrong address, what do I do?
+Historical response: @403719 Oh no, Meredith! I'm sorry! Let's look at options regarding the order by phone or chat here: https://t.co/JzP7hlA23B ^TG
+
+Customer: @115830 parcel arrived and was damaged
+Historical response: @212244 I'm very sorry for how your parcel arrived. Was it shipped and sold by Amazon or a Marketplace seller? ^DO
+
+Customer: When your @115821 parcel gets delivered too quickly so you realize you put down the wrong address 🙃🙃🙃
+Historical response: @276868 Lets look at your options together, Brianna! Please fill this out: https://t.co/hApLpMlfHN and we'd be glad to help! ^CN",5,5,5,5,5,5.0,Exact match to historical response for a wrong address / parcel issue.
